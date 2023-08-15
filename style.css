@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#all_posts{
+    display: flex;
+    background-color: aquamarine;
+    color: rgb(98, 0, 255);
+}
+
+
+
+body{
+    background-color: bisque;
+}
+
+#buttonn{
+    width: 700px;
+    margin: 20px 650px;  
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#box{
+    border: 2px solid rgb(0, 0, 0);
+    width:580px;
+    border-radius: 100px;
+    margin: 40px auto;
+    padding: 40px;
+}
+
+
+button#all_posts {
+    width: 100px;
+  
+}
+button{
+    width: 100px;
+    margin: 3px;
+    
+}
